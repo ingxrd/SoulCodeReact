@@ -1,0 +1,46 @@
+.mulheres-titulo {
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    color: #711f74;
+
+}
+
+.paragrafo {
+    font-size: 16px;
+    text-align: justify;
+    padding: 30px;
+}
+
+.mulheres-corpo {
+    background-color: #f3c3ff;
+    padding: 8px;
+    border: 1px solid #1b1b1b00;
+    border-radius: 8px;
+    width: 100%; 
+    margin: 8px auto;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-around;
+}
+
+.imagem-mulheres {
+    width: 320px;
+    height: 180px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.boxAda, .boxGrace, .boxSilvana {
+    width: calc(33.33% - 20px); 
+    margin-bottom: 20px; 
+    background-color: #ffffff; 
+    padding: 20px; 
+    border-radius: 8px;
+}
+
+.lercontinuar{
+    color: purple;
+    margin: 30px 4px 30px;
+}

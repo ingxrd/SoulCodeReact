@@ -1,21 +1,18 @@
-
-/* Estilos globais */
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 body {
-    background-color: #efefef;
-    font-family: monospace;
+    background-color: #ec9ad800;
+    font-family: Helvetica, sans-serif;
 }
 
 img {
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 h1 {
     text-align: center;
 }
-
